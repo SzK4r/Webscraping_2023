@@ -1,6 +1,8 @@
 # Webscraping_NoFlufJobs.com
 This project is a web scraping application built with Scrapy, Selenium, and BeautifulSoup (BS4), powerful and flexible web scraping frameworks in Python. The purpose of this project is to extract job advertisement data from the website "nofluffjobs.com" and gather information such as job positions, salary ranges, company details, categories, locations, seniority levels, and required skills.
 
+# Scrapy is in the second branch (master) 
+
 ## Features
 
 - Scrape job advertisement data from "nofluffjobs.com"
