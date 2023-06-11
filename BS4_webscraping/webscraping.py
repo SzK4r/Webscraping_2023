@@ -38,8 +38,7 @@ tags = bs.find_all('a', {'class':re.compile('page-link')})
 # Extract the 'href' attribute value from each <a> tag and append it to the links list
 links = ['https://nofluffjobs.com' + tag['href'] for tag in tags]
 
-
-
+print('links:',links)
 
 ################################################################################
 # This part prepares real job ads links
@@ -51,9 +50,6 @@ links = ['https://nofluffjobs.com' + tag['href'] for tag in tags]
 # Within the nested loop, the code attempts to append a modified version of the extracted link to the link_temp_list by concatenating 'https://nofluffjobs.com', the href attribute from the tag, and '?lang=en'. 
 # If an exception occurs during the appending process (likely due to a missing or invalid href attribute), the except block does nothing. After the nested loop, the link_temp_list is extended to the job_ads_links list, adding all the extracted job advertisement links to the final list.
 # By executing this code, the script extracts the job advertisement links from the previously extracted links. Each link is modified and appended to the job_ads_links list.
-
-#A new empty list named job_ads_links is created to store the final job advertisement links.
-job_ads_links = []
 
 #A loop is started to iterate through each link in the links list.
 job_ads_links = []
@@ -81,6 +77,8 @@ for link in links:
     job_ads_links.extend(link_temp_list)
 
 
+print('job_ads_links: ', job_ads_links) 
+
 
 ################################################################################
 # This part scraps the required atribiutes of the job_ads
@@ -89,7 +87,7 @@ for link in links:
 d = pd.DataFrame({'position': [], 'salary_range': [], 'company': [], 'category1': [], 'category2': [], 'location': [], 'remote': [], 'must have': [], 'nice to have': [], 'seniority': []})
 
 
-for url in job_ads_links[:5]:
+for url in job_ads_links[:100]:
     # Iterate through the first 5 URLs in the job_ads_links list
 
     # Open URL and retrieve HTML content
@@ -138,7 +136,7 @@ for url in job_ads_links[:5]:
 
     try:
         # Extract 'Must have' skills
-        must_have_element = bs.find('h2', text='Must have')
+        must_have_element = bs.find('h2', string='Must have')
         ul_element = must_have_element.find_next('ul')
         # Extract text content of each <li> element within the <ul> element
         must_have_list = [li.text.strip() for li in ul_element.find_all('li')]
@@ -150,7 +148,7 @@ for url in job_ads_links[:5]:
 
     try:
         # Extract 'Nice to have' skills
-        nice_to_have_element = bs.find('h2', text='Nice to have')
+        nice_to_have_element = bs.find('h2', string='Nice to have')
         ul_element = nice_to_have_element.find_next('ul')
         # Extract text content of each <li> element within the <ul> element
         nice_to_have_list = [li.text.strip() for li in ul_element.find_all('li')]
@@ -177,11 +175,17 @@ for url in job_ads_links[:5]:
         else:
             # Set seniority to an empty string if extraction fails
             seniority = ''
+    
+    job = {'position': position, 'salary_range': salary, 'company': company, 'category1': category1,
+           'category2': category2, 'location': location, 'must have': must_have,
+           'nice to have': nice_to_have, 'seniority': seniority}
+    
+    d = d._append(job, ignore_index=True)
 
 
 
 # Save DataFrame to CSV
-d.to_csv('job__ads_data.csv', index=False)
+d.to_csv('job_ads_data1.csv', index=False)
 
 # Calculate the execution time
 end_time = time.time()
