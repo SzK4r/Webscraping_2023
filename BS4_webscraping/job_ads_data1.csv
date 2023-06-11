@@ -1,0 +1,101 @@
+position,salary_range,company,category1,category2,location,remote,must have,nice to have,seniority
+"DevOps Engineer (Terraform, GCP, Python)",23 100  – 29 400  PLN,Wipro Digital,DevOps,Python,Cracow,,"Terraform, Python, GCP, Microservices, Kubernetes, Docker, Ansible, English","CI/CD, Bash, Go, CI/CD Pipelines, Spring, Terragrunt, Polish",Mid
+Senior .Net Fullstack Developer,12 500  – 15 833  PLN,Chatham Financial,Fullstack,.NET,Krakow,,".NET, JavaScript, Angular, React, C#, C++, Java, Oracle, MySQL, REST API, Degree, API, English (C1)","SQL Server, TypeScript",Senior
+ServiceNow Specialist,12 000  – 17 000  PLN,Harvey Nash Technology,Sys. Administrator,,Remote,,English (B2),"Polish (B2), German (B2)",Mid
+Postgres Database/ETL Engineer,10 000  – 17 000  PLN,Motorola Solutions Systems Polska,Data,SQL,Remote,,"SQL, PostgreSQL, ETL, Informatica, Oracle, Pentaho, CAN, English","JSON, SOA, Microservices, REST API, SOAP, PL/SQL, Bash, Unix, Linux, Python",Mid
+Project Manager,21 840  – 24 360  PLN,AVENGA,Project Manager,,Warsaw,,"MS Office, Excel, agile, English (B2)",None,"Mid, Senior"
+Remote Lead Backend Python Developer,20 772  PLN,IT Recruiting Agency,Backend,Python,Remote,,"Python, English (B2)",None,Expert
+Remote Senior Backend Python Developer,18 695  – 20 772  PLN,IT Recruiting Agency,Backend,Python,Remote,,"Python, English (B2)",None,Senior
+Automatyk / Programista PLC,7 500  – 15 000  PLN,RunBit,Automation,,Wrocław,,"PLC, Beckhoff, Siemens, Allen Bradley, Czytanie Schematów Elektrycznych, English, German","Automotive, Programowanie Robotów Przemysłowych, Prawo jazdy kat. B",Mid
+Associate Technical Support Engineer,8 000  – 12 000  PLN,Dun & Bradstreet,IT Support,,Warszawa,,"FTP, SFTP, Managed File Transfer, English, Tech Support, English (C1), Polish (NATIVE)",Axway Secure Transport,Mid
+Mid Sys. Administrator,8 000  – 12 000  PLN,Link Group,Sys. Administrator,,Warszawa,,"Windows, Linux, Zabbix, Proxmox, Bash, PowerShell, SQL, English (B2)","IBM, IBM iSeries, Business Central, Power BI, PowerApps",Mid
+Senior SAP S/4HANA Consultant,18 000  – 24 000  PLN,Mindbox S.A.,Data,,Warszawa,,"SAP, SD, S4 HANA, ABAP, English (C1), Polish",ERP,Senior
+SAP Consultant Product Life Cycle,26 800  – 33 600  PLN,Engenious,ERP,,Remote,,"SAP, PP, QM, PLM, Polish, English","ABAP, German",Mid
+Inżynier Utrzymania Sieci,16 800  – 20 160  PLN,Avenga,Sys. Administrator,,Warsaw,,"LAN, WAN, WLAN, VPN, Cisco, CCNA, CCNP, English (B2)",None,Mid
+Samodzielna/y Księgowa/y,7 000  – 9 500  PLN,Ekkom Sp. z o.o.,Finance,,Wrocław,,Polish,English,Mid
+Portfolio Support Analyst  (PMO Admin),21 000  – 25 200  PLN,Wipro Digital,IT Support,,Krakow,,"Agile, Confluence, Jira, SharePoint, English",Polish,Mid
+Senior Marketing Manager,10 386  – 14 540  PLN,Railsware,Marketing,,Remote,,"Google Analytics, English (C1)",Figma,Senior
+Fullstack Developer,20 772  – 29 081  PLN,AllSTARSIT,Fullstack,Golang,Remote,,"Golang, NoSQL, Docker, K8s, AWS, Vue.js, React, JavaScript, CSS, English",Go,Senior
+Remote Senior Project Manager - AI,17 000  – 22 000  PLN,Thoriana Sp. z o.o.,AI,,Remote,,"AI, PMP, PM, Prince2, English (B2)",None,Senior
+Junior Project Manager - Telco,8 000  – 12 000  PLN,Thoriana Sp. z o.o.,Telecommunication,,Warsaw,,English (B2),None,Junior
+Junior Business Analyst - Finance,8 000  – 12 000  PLN,Thoriana Sp. z o.o.,Finance,,Warsaw,,"Visio, English (B2)","MS Project, UML, BPMN, CRM, ERP, Prince2, MS Office",Junior
+Machine Learning Engineer,20 000  – 27 000  PLN,hubQuest,AI,Python,Remote,,"Python, Databricks, PySpark, Spark, SQL, Machine Learning, English (C1), Polish (C1)",Azure,Mid
+Marketing Manager/ka -Project Manager/ka,7 000  – 9 000  PLN,Be About | Hybrid Agency,Marketing,,Warszawa,,"Polish (NATIVE), English (C2)",None,"Mid, Senior"
+Senior Presales Engineer,17 000  – 22 000  PLN,10Clouds,Sales,,Remote,,English (C1),"Blockchain, AI",Senior
+Financial Analyst,7 000  – 10 000  PLN,HRO Digital,Finance,,Kraków,,"Audit, Degree, Accounting, Excel, Polish, English",None,Mid
+Senior Unity Engineer,20 000  – 26 000  PLN,Sunscrapers,Game dev,UNITY,Remote,,"UNITY, C#, .NET, Unity 3D, C++, English (C1), Polish (NATIVE)","SRP, SBP, OpenGL, DirectX, iOS, Android",Senior
+Technology Project Manager,25 200  – 29 400  PLN,Wipro Digital,Project Manager,,Krakow,,"Agile, Confluence, Jira, English",Polish,Senior
+Remote Senior Project Manager,31 920  – 35 280  PLN,Coforge,Project Manager,,Remote,,"Project management, MS Project, Microsoft Office suite, English (C1)",Quality assurance,Senior
+Remote Principle Program Manager,36 960  – 42 000  PLN,Coforge,Project Manager,,Remote,,"Program Management, Microsoft Office, Project management, Airline, English (C1)",None,Expert
+Quality Assurance Automation Engineer,8 500  – 16 000  PLN,STORKJET SP. Z O.O.,Automation,,Katowice,,"Cucumber, Selenium, JUnit, SQL, Python, Java, Linux, Bash, CI, CD, English","MariaDB, MySQL","Mid, Senior"
+Junior Analyst - AI,8 000  – 12 000  PLN,Thoriana Sp. z o.o.,AI,,Warsaw,,"Visio, Enterprise Architect, English (B2)","MS Project, UML, BPMN, CRM, ERP, Prince2, MS Office",Junior
+Administrator infrastruktury,16 800  – 20 160  PLN,Avenga,Sys. Administrator,,Łódź,,"Linux, Bash, Perl, Python, Ansible, English (B2)","Kubernetes, Docker, Zabbix, Prometheus, Grafana, TeamCity, Jenkins, Jira, Git",Mid
+Młodszy inżynier elektronik,6 000  – 8 400  PLN,Prime Engineering,Electronics,,Wrocław,,Sodlidworks,English (B2),Junior
+Managed Cloud Database Administrator,14 000  – 20 000  PLN,Nordcloud,Data,SQL,Remote,,"SQL, SQL Server, Oracle, MongoDB, Cloud computing, Automation, Scripting, English","NoSQL, PostgreSQL, MySQL, DB, Terraform, Ansible, AWS, Azure, Google cloud",Mid
+IT Voice Engineer,18 000  – 24 000  PLN,Link Group,Telecommunication,,Kraków,,"Cisco, Verint, MS Teams, WebEx, Movius, Excel, VBS, PowerShell, Polish, English",None,Mid
+Senior Python Backend Engineer (MedTech),21 840  – 25 200  PLN,Sigma IT Poland,Backend,Python,Remote,,"Python, Docker, SQL, Cloud, Kubernetes, API Gateway, Service mesh, Microservices, Polish (B2), English (C1)","DAPR, Helm, ArgoCD, CI/CD",Senior
+Webflow Developer,11 626  – 16 992  PLN,Netguru,Frontend,Webflow,Remote,,"Webflow, CMS, Rwd, HTML, CSS, JavaScript, jQuery, Figma, English (B2)","GSAP, WCAG, UX, UI, Open API",Mid
+Remote Avionics Test Automation Engineer,23 520  – 33 000  PLN,int2code GmbH,Testing,Python,Remote,,"Python, Communication skills, git, ROBOT Framework, Jenkins, C, Git, embedded software testing, English, English (C1)","ISTQB-Certification, Polarion, LDRA, Ceedling, German",Mid
+Sales Development Representative,6 000  – 9 000  PLN,CodiLime,Sales,,Remote,,"experience in selling IT services, outbound sales, social selling, Polish, English (C1)",None,Mid
+SAP ABAP Developer,24 000  – 33 500  PLN,CSHARK Sp. z o.o.,ERP,,Remote,,"SAP, SAP ERP, ABAP, ABAP OO, English (B2), Polish (C1)","Azure, S/4HANA",Senior
+Account Manager,8 000  – 12 000  PLN,TR Group,Sales,,Kraków,,English,None,Mid
+Remote Mid Project Manager - Mechanics,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,Mechanics,,Remote,,English (B2),"MES, PMP, PM, Prince2",Mid
+Remote Mid Analyst - AI,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,AI,,Remote,,"Visio, MS Project, UML, BPMN, CRM, ERP, Prince2, UX, UI, MS Office, English (B2)",None,Mid
+Junior Marketing Specialist,4 800  – 6 000  PLN,Thoriana Sp. z o.o.,Marketing,,Warsaw,,"Canva, Adobe, Photoshop, Google Analytics, MS Office, English (B2)",None,Junior
+Junior Project Manager - Finance,8 000  – 12 000  PLN,Thoriana Sp. z o.o.,Finance,,Warsaw,,English (B2),None,Junior
+Remote Senior Project Manager -Mechanics,17 000  – 22 000  PLN,Thoriana Sp. z o.o.,Mechanics,,Remote,,"MES, PMP, PM, Prince2, English (B2)",None,Senior
+Mid Project Manager - Telecommunication,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,Telecommunication,,Remote,,English (B2),"Telco, PMP, PM, Prince2",Mid
+Spec. ds. Sprzedaży MS Dynamics 365,9 000  – 12 000  PLN,Probit Sp. z o.o.,Sales,,Remote,,"ERP, sale",English (B2),"Mid, Senior"
+Embedded Software Engineer,16 800  – 33 600  PLN,ASTEK Polska,Embedded,C++,Remote,,"C, C++, Linux, QNX","AUTOSAR, FreeRTOS, English (B2)","Senior, Expert"
+System Engineer for Automotive,16 800  – 31 500  PLN,ASTEK Polska,Embedded,,Remote,,"Embedded, Embedded system, Programming, Analyzing data, Analysis, Analytics platform, Problem Solving","IBM DOORS, AUTOSAR, CAN, LIN, Ethernet, TCP, IP, English (B2)","Senior, Expert"
+Remote Mid Back Office Specialist,4 500  – 6 000  PLN,Thoriana Sp. z o.o.,Backoffice,,Remote,,"MS Office, English (C1)",None,Mid
+Remote Mid Project Manager - AI,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,AI,,Remote,,"AI, PMP, PM, Prince2, English (B2)",None,Mid
+Remote Mid Sales Specialist,5 500  – 8 000  PLN,Thoriana Sp. z o.o.,Sales,,Remote,,"MS Office, English (B2), Polish",None,Mid
+Senior Linux Systems Engineer,14 000  – 20 000  PLN,Keepit,Sys. Administrator,,Kraków,,"Linux, Networking, Switches, Routing, Dell, Ubuntu, English (B2)","Git, BGP, LDAP, Kerberos, SAML, Ansible, gdb",Senior
+TechOps Engineer,12 000  – 16 000  PLN,Keepit,Sys. Administrator,,Kraków,,"Ubuntu, Linux, Networking, Grep, Shell, English (B2)","PostgreSQL, Pacemaker, Corosync, ITIL",Mid
+C++ Developer,13 000  – 18 500  PLN,Keepit,Backend,C++,Kraków,,"C++, Linux, Multithreading, STL, TCP, HTTP, REST API, XML, SQL, English (B2)",None,Mid
+Java Performance Tester,14 400  – 27 200  PLN,Sii Polska,Testing,Java,Remote,,"Java, API, Cucumber, Selenium, CI/CD, Git, Jenkins, Jira, Confluence, BDD, Performance testing, English, Polish",None,Mid
+Junior HR Specialist,4 800  – 6 000  PLN,Thoriana Sp. z o.o.,HR,,Warsaw,,"MS Office, English",None,Junior
+Remote Mid Project Manager - Finance,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,Finance,,Remote,,English (B2),"PMP, PM, Prince2",Mid
+Remote Mid Business Analyst - Finance,12 000  – 16 000  PLN,Thoriana Sp. z o.o.,Finance,,Remote,,"Visio, Enterprise Architect, MS Project, UML, BPMN, CRM, ERP, Prince2, UX, UI, MS Office, English (B2)",None,Mid
+Projektant - Inż. ds. Uruchomień (AKPIA),5 000  – 10 000  PLN,ControlTec Sp. z o.o.,Electrical Engineering,,Wrocław,,"AutoCAD, MS Office, Driving license, Polish, English (B2)",EPLAN,Mid
+Programista PLC,7 000  – 12 000  PLN,WUWER,Automation,,Ruda Ślaska,,"PLC, TIA, WinCC, MS Office, SEP",English (B2),Mid
+AI Engineer,27 000  – 32 000  PLN,CDeX,AI,Python,Remote,,"AI, Python, English (B2)",".NET, SQL","Mid, Senior"
+Koordynator ds. marketingu z niemieckim,8 000  – 12 000  PLN,LeasingTeam Professional,Marketing,,Gdańsk,,"Adobe Creative Cloud, DTP, MS Office, German (B2)","English (B2), Danish (B2)",Mid
+Customer service with Finnish & English,9 000  – 9 500  PLN,LeasingTeam Professional,Customer Service,,Remote,,"MS Excel, Finnish, English",None,"Trainee, Junior"
+Marketing Specialist with german,8 000  – 12 000  PLN,LeasingTeam Professional,Marketing,,Gdańsk,,"Adobe Creative Cloud, DTP, MS Office, German (B2)","English (B2), Danish (B2)",Mid
+Customer Specialist with Finnish,9 000  – 9 500  PLN,LeasingTeam Professional,Customer Service,,Remote,,"MS Office, Finnish (C1), English (B2)",None,Mid
+Specjalista ds. marketingu z niemieckim,6 000  – 10 000  PLN,LeasingTeam Professional,Marketing,,Gdańsk,,"Adobe Creative Cloud, DTP, MS Office, German (C1)","English (B2), Danish (B2)",Mid
+Obsługa klienta z j. słoweńskim,6 720  PLN,LeasingTeam Professional,Customer Service,,Remote,,"Slovene (C1), Polish (B2), English (B2)",None,Junior
+Młodszy Konstruktor Mechanik,5 500  – 7 500  PLN,Sonel S.A.,Mechanics,,Wrocław,,"SolidWorks, Polish (NATIVE), English (B1)",Jira,Junior
+Salesforce Developer,14 000  – 20 000  PLN,Nordcloud,Backend,,Remote,,"Salesforce, Java, C#, Git, English","Jira, Confluence, Apex, Object-oriented programming",Mid
+Senior SAP Integration (CPI) Developer,14 540  – 27 004  PLN,Customertimes,ERP,,Remote,,"SAP, XML, SoapUI, Postman, SAP CPI, English (B2)",None,Senior
+Remote Solution Architect - SAP CS/QM,33 000  – 37 000  PLN,Link Group,ERP,,Remote,,"SAP, SAP CS, Architecture, SAP QM, English (B2)",German,Senior
+Junior Technology Business Consultant,7 000  – 7 500  PLN,FIS Technology Services (Poland) Sp. z o.o.,IT Support,,Warsaw,,"Degree, English",None,Junior
+"Junior Implementation Analyst, FIS Uni",7 000  – 7 500  PLN,FIS Technology Services (Poland) Sp. z o.o.,Business Analysis,,Warszawa,,"Degree, English",None,Junior
+Remote Lead / Senior .NET Developer,20 000  – 29 000  PLN,KMD Poland,Backend,.NET,Remote,,".NET, Angular, Microservices architecture, Git, CI/CD, English (B2), Polish","Azure, Domain-driven design, Docker, Kubernetes, Kafka, Agile",Senior
+Functional Consultant / Business Analyst,12 000  – 16 000  PLN,Netwise S.A.,Business Analysis,,Remote,,"Microsoft Dynamics 365, Power Platform, Polish, English (B2)","UML, BPMN, Jira, Azure DevOps, Confluence",Mid
+SQL Specialist - Gaming Development,8 000  – 13 000  PLN,Zone IT Sp. z o.o.,Game dev,SQL,Wrocław,,"SQL, Data engineering, Java, Polish, English","Angular, React, UNITY","Mid, Senior"
+DevOps Engineer - Games,8 000  – 15 000  PLN,Zone IT Sp. z o.o.,Game dev,React,Wrocław,,"Developing products, React, DB, K8s, Spark, Apache Airflow, Angular, DevOps, Java, Polish, English","UNITY, IBM, AngularJS","Mid, Senior"
+Oracle Specialist - Gaming solutions,11 000  – 18 000  PLN,Zone IT Sp. z o.o.,Game dev,SQL,Wrocław,,"Oracle database, Data engineering, Oracle, Storage, RAC, Java, Angular, Polish, English","React, UNITY, Python, C++, TypeScript, JavaScript, AngularJS","Mid, Senior"
+Python Software Developer -  Games,8 000  – 15 000  PLN,Zone IT Sp. z o.o.,Game dev,Python,Wrocław,,"Python, Java, angular, Polish, English","React, Ruby on Rails, UNITY, Helm, Kubernetes, Artifactory, Jenkins, OpenShift, CI/CD, PostgreSQL, DevOps, IBM Db2, IBM, Linux, AngularJS","Mid, Senior"
+Data Engineer - Games,8 000  – 15 000  PLN,Zone IT Sp. z o.o.,Game dev,TypeScript,Wrocław,,"Data engineering, TypeScript, Polish, English","Angular, React, UNITY, DevOps, IBM Db2, IBM, Linux, ETL, REST API","Mid, Senior"
+Tester Oprogramowania Lokey,4 000  – 8 000  PLN,Lokey,Testing,JavaScript,Remote,,"Debugging, Polish (NATIVE)","Jira, Selenium, Python, JavaScript, English (B2)",Junior
+Regular/Senior Embedded Tester,15 120  – 22 680  PLN,Knowit,Testing,Python,Łódź,,"Python, Gerrit, Git, CI/CD, Jenkins, Robot Framework, Jira, English (B2)",REST API,"Mid, Senior"
+Office Manager,7 000  – 8 000  PLN,QUANTUMZ.IO Ltd.,Backoffice,,Warszawa,,"MS Office, Google Workspace, English (C1)",Notion,Mid
+Cloud Solution Architect with AWS,34 440  – 44 520  PLN,GFT Poland,Architecture,GCP,Remote,,"Architecture frameworks, Modern architecture patterns, GCP cloud architecture, Solution architecture, Containerized architecture, Cloud migration, Company tech strategy, Stakeholder management, AWS certificate, AWS, English (B2)",None,Expert
+Senior/Tech Lead .NET Developer,18 480  – 29 400  PLN,Spyrosoft,Fullstack,.NET,Remote,,"C#, .NET CORE, .NET Framework, Entity Framework, NHibernate, Microservices, AWS, CI/CD, English",None,Senior
+Senior System Integration Engineer,16 000  – 22 000  PLN,SoftServe,DevOps,,Remote,,"Linux, Kubernetes, Ansible, Terraform, Kernel, English (B2)",None,Senior
+QA Manager,16 000  – 23 000  PLN,Andea Solutions Sp. z o.o.,Testing,Cypress,Remote,,"Cypress, QA, SaaS, REST API, API, SQL, English","Azure, Azure DevOps, CI/CD",Senior
+Spec. MS Dynamics 365 Business Central,10 000  – 14 000  PLN,Probit Sp. z o.o.,ERP,,Remote,,"AL, MS SQL",English (B2),"Mid, Senior"
+Senior Ad Operations Manager,10 732  – 15 203  PLN,Snigel,Customer Service,,Remote,,"AD, Google Ads, GAM, English (C1)",None,Senior
+New Business Manager,15 000  – 20 000  PLN,Integral Solutions Sp. z o.o.,Sales,,Warszawa,,English (B2),"Data management, Azure, AWS, Google Cloud, Snowflake",Mid
+Embedded C++ Developer,18 480  – 36 960  PLN,Capgemini,Embedded,C++,Kraków,,"C++, Linux, Unit testing, English (B2)","C, CAN, AUTOSAR, AWS, Polish","Mid, Senior"
+Senior React Frontend Engineer,17 000  – 26 000  PLN,SoftServe,Frontend,React,Wrocław,,"React, d3, English (B2)","Agile, Scrum",Senior
+Remote Full-Stack WordPress Developer,18 695  – 24 926  PLN,Adaptiq,Fullstack,PHP,Remote,,"PHP, WordPress, JavaScript, CSS, MySQL, ES6+, React, English",SCSS,"Mid, Senior"
+Senior Backend Java Software Engineer,25 000  – 30 000  PLN,Vakoms,Backend,Java,Wrocław,,"Java, Spring, Spring Boot, REST API, OOP, Design Patterns, MVC, API, JUnit, Mockito, PostgreSQL, Domain Driven Design, Java EE, SQL, English (B2)","UML, Docker, CI/CD, Swing, Polish (B2)",Senior
+Backend Java Software Engineer,15 000  – 20 000  PLN,Vakoms,Backend,Java,Wrocław,,"Java, Spring, Spring Boot, REST API, OOP, Design Patterns, MVC, API, JUnit, Mockito, PostgreSQL, Domain Driven Design, Java EE, SQL, English (B2)","UML, Docker, CI/CD, Swing, Polish (B2)",Mid
+Stażysta w Dziale Controllingu,4 400  – 4 600  PLN,ZF Group,Finance,,Częstochowa,,"Excel, English (B2), Polish",None,Trainee
+PHP Developer,12 000  – 18 000  PLN,E NET PRODUCTION,Backend,PHP,Remote,,"PHP, MySQL, Symfony, Git, Docker, Zend, Laravel, Polish","Redis, RabbitMQ, Varnish, Elasticsearch, English",Mid
+Accounting Specialist,9 000  – 11 000  PLN,FORM,Finance,,Kraków,,"Accounting, Excel, English, Polish, English, Polish","NetSuite, Salesforce",Mid
+ServiceNow Consultant (JavaScript),11 000  – 18 000  PLN,GuideVision Polska,Fullstack,JavaScript,Remote,,"JavaScript, ServiceNow, English (B2)","HTML, CSS, AngularJS, REST, SQL, SOAP",Mid
