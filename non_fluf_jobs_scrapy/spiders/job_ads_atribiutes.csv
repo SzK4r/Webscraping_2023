@@ -1,0 +1,107 @@
+category1,category2,company,location,must_have,nice_to_have,position,remote,salary_range,seniority
+ Product Management ,, Wipro Digital , Cracow ," Backlog management , Defining business requirements , French , English , French ", Polish , Major Incident Manager (with French) ,False," 23 100  – 27 300 , PLN ", Mid 
+ ERP ,, Link Group , Remote ," SAP , Linux , Windows , Oracle , English "," HANA , ABAP , Java ", REMOTE Mid&Senior SAP Basis Admin ,False," 20 160  – 28 560 , PLN ", Senior 
+ Product Management ,, Wipro Digital , Gdansk ," Jira , Confluence , Kanban , scrum , Agile , SDLC , English "," CI/CD , Polish ", Delivery Lead (Scrum Master) ,False," 25 200  – 30 450 , PLN ", Senior 
+ Project Manager ,, Tooploox , Remote ," Jira , Asana , English , Polish "," Degree , AI ", Agile Project Manager ,False," 12 000  – 18 000 , PLN ", Senior 
+ Business Analysis ,, Axis Group , Remote ," Good knowledge of Microsoft Excel , Bachelor&#39;s degree in Computer Science or economics , Analytical thinking , Communication skills , Excel , Degree , English (B2)"," BI tools , Tableau , Power BI , Qlik , SQL / NoSQL , Knowledge of date warehouse , Knowledge of ETL process , SQL , NoSQL , ETL ", Junior Analytics Developer ,False," 5 000  – 8 500 , PLN ", Junior 
+ Fullstack , .NET , Wipro Digital , Remote ," .NET , React , Microservices , Automation , Git , JUnit , English "," Docker , Kubernetes , Jenkins , Azure , GCP , AWS , Polish "," Full Stack Engineer (.NET, React, Azure) ",False," 25 200  – 37 800 , PLN ", Senior 
+ Frontend , React , N-iX , Remote ," React , JavaScript , Redux , HTML , CSS , English (B2)", TypeScript , Middle React Developer ,False," 14 660  – 21 111 , PLN ", Mid 
+ Product Management ,, Wipro Digital , Gdansk ," Jira , Confluence , Kanban , English ", Polish , Product Owner (Digital Transformation) ,False," 25 200  – 29 400 , PLN ", Mid 
+ DevOps , SQL , Drata , Remote ," MySQL , SQL , AWS , AWS RDS , Databases , English ", DynamoDB , Senior Database Reliability Engineer/DBA ,False," 24 434  – 31 415 , PLN ", Senior 
+ Backend , Spark , Wipro Digital , Krakow ," Spark , Microservices , Jenkins , GitHub , Jira , Confluence , Scrum , English "," GCP , Apache Airflow , JUnit , TDD , BDD , Azure , AWS , Polish ", Scala (Spark) Backend Developer ,False," 21 000  – 26 250 , PLN ", Mid 
+ Project Manager ,, Wipro Digital , Warszawa ," Project management , large scale projects , Team management , Business Process Model and Notation , Process modelling , Jira , Agile , English , German ", Polish , Transformation Leader (with German) ,False," 35 700  – 40 950 , PLN "," Senior, Expert "
+ Testing ,, Link Group , Gdynia ," Swagger , Postman , Azure DevOps , Git , Visual Studio , English (B2)",, QA Manual - Mid ,False," 13 440  – 18 480 , PLN ", Mid 
+ Business Analysis ,, Wipro Digital , Krakow ," Agile , Confluence , Jira , English "," SEPA , EPC , SQL , Polish ", Agile Business Analyst (SEPA) ,False," 25 200  – 29 400 , PLN "," Mid, Senior "
+ Sales ,, Smart-HR , Żory , English (B2),, Export Director FMCG ,False," 12 000  – 18 000 , PLN ", Senior 
+ Sales ,, SCALEUP , Szczecin ," MS Office , Portuguese (NATIVE), English ", Polish , Sales Specialist ,False," 10 000 , PLN ", Junior 
+ Telecommunication ,, Hitachi Energy , Kraków ," STEM , TCP/IP , TCP , Networking , English "," TCP/IP protocols , Lean , Six Sigma ", Quality Specialist ,False," 14 000  – 20 000 , PLN "," Mid, Senior "
+ Design ,, Tooploox , Remote ," UI Design , UX Design , User research , Client workshops , Communication skills , Team player , Polish , English ",, Senior UI Designer ,False," 14 000  – 19 000 , PLN ", Senior 
+ Frontend , Angular , CheapTrip , Remote ," Angular , English "," Python , Android , iOS ", Remote Trainee Angular Developer ,False, Unpaid internship , Trainee 
+ Security ,, Nemzetbiztonsági Szakszolgálat , Budapest ," Operátor , Hungarian , English ",, Operátor ,False," 7 492  – 9 921 , PLN ", Mid 
+ Security ,, Nemzetbiztonsági Szakszolgálat , Budapest ," Tesztelő , Hungarian , English ",, Junior manuális tesztelő   ,False," 7 492  – 9 921 , PLN ", Junior 
+ Security ,, Systemfarmer Zrt. , Budapest ," Azure , Intune , Defender , MS Purview , MS Entra , MS 365 , Hungarian (NATIVE), English (B2)",, Microsoft Cloud Security Manager Hungary ,False," 12 144  – 19 430 , PLN "," Mid, Senior "
+ Backend ,, CheapTrip , Remote ," Python , English "," Angular , Android , iOS ", Remote Trainee Python Developer ,False, Unpaid internship , Trainee 
+ Data , SQL , Harvey Nash Technology , Warszawa ," SQL , SQL Server , English (C1)"," Python , Alteryx , Data warehouse , Data Lake , Databricks ", Business SQL Developer ,False," 25 000  – 32 000 , PLN "," Mid, Senior "
+ Security ,, Nemzetbiztonsági Szakszolgálat , Budapest ," Informatikai mérnök , Hungarian , English ",, Informatikai mérnök ,False," 10 322 , PLN ", Mid 
+ Security ,, Nemzetbiztonsági Szakszolgálat , Budapest ," Incidenskezelő , English (B2), Hungarian ",, Incidenskezelő munkatárs ,False," 7 978  – 10 285 , PLN ", Mid 
+ ERP ,, proALPHA Software Kft. , Budapest ," ERP , German (C1)"," C , C++ , .NET , Cloud , Oracle , Java , SAP , English (B2)", Junior szoftverfejlesztő (ERP projektek) ,False," 6 084  – 10 322 , PLN ", Junior 
+ Electronics , C++ , Orienta Polska , Łódź ," SCADA , iFix , WinCC , C , C++ , C# , MATLAB , MySQL , SQL , English (B2)",, Inżynier SCADA ,False," 9 000  – 12 000 , PLN ", Mid 
+ Backend , Python , IT Recruiting Agency , Remote ," Python , English (B2)",, Remote Senior Backend Python Developer ,False," 18 849  – 20 943 , PLN ", Senior 
+ Data , Python , Bayer Sp. z o.o. , Warsaw ," Data engineering , Azure Data Lake , Databricks , Snowflake , SAP , HANA , SQL , Python , BI , Tableau , Data management , Azure , English ",, Data Architect Marketing&eComm Analytics ,False," 18 000  – 26 500 , PLN "," Mid, Senior "
+ Sales ,, Orienta Polska , Warszawa ," MS Office , English (B2)",, Specjalista/ka ds. Eksportu ,False," 9 000  – 11 000 , PLN ", Mid 
+ Data , Azure , Bayer Sp. z o.o. , Warsaw ," Degree , Data modeling , Big data , Microservices , Data governance , Data management , Snowflake , Kafka , Collibra , English (C1)",, Senior Data Architect ,False," 18 000  – 27 000 , PLN "," Mid, Senior "
+ Project Manager ,, Link Group , Remote ," Confluence , Jira , Polish , English ",, Remote Project Manager 1/2 FTE ,False," 25 200 , PLN ", Senior 
+ Sales ,, Orienta Polska , Warszawa , English (C1),, Przedstawiciel Handlowy ,False," 6 000 , PLN ", Mid 
+ Fullstack , .NET , Prognetics , Remote ," .NET , .NET Core , EF Core , SQL Server , Design Patterns , REST API , GitHub , English (B2), Polish (C1)"," Angular , Azure , SOA , Microservices , React , NoSQL , Kubernetes , RabbitMQ ", Remote .NET Fullstack Developer ,False," 15 120  – 25 200 , PLN ", Mid 
+ Marketing ,, Elitmind , Warszawa ," Networks , Digital marketing , Social media , Marketing automation , Email marketing , Marketing strategy , SEO , IT industry awarness , English , leadership , English (C1)", Data/BI industry awarness , Marketing Head/Leader (IT) ,False," 14 000  – 20 000 , PLN "," Senior, Expert "
+ Product Management ,, Bayer Sp. z o.o. , Warsaw ," Business Analyst , Product Management , Project Management , English (C1)"," GXP , EDI , German (B2)", Enterprise Product Manager ,False," 18 000  – 26 500 , PLN ", Mid 
+ Frontend , Angular , Direct Communication Sp. z o.o. , Remote ," Angular , TypeScript , English (B2)",, Tech Lead Angular & TypeScript - Remote ,False," 25 000  – 30 000 , PLN ", Senior 
+ Backend , Python , IT Recruiting Agency , Remote ," Python , English (B2)",, Remote Lead Backend Python Developer ,False," 20 943 , PLN ", Expert 
+ Sales ,, Spotlight Agency , Warszawa , English (B2),, New Business Manager ,False," 7 000  – 8 000 , PLN ", Mid 
+ HR ,, No Fluff Jobs , Gdynia ," samodzielność , proaktywność , priorytetyzacja zadań , komunikacja , English (B2), Polish ",, Junior Operations Specialist ,False," 4 650  – 5 350 , PLN ", Junior 
+,, Creative Ideas , Leszno ," CAD , AutoCAD , English (B1)"," SAP , Comos ", Inżynier Elektryk ,False," 7 000  – 9 000 , PLN ", Mid 
+ Marketing ,, Spotlight Agency , Warszawa , Doświadczenie w social media marketingu , English , Influencer Manager ,False," 7 000  – 8 000 , PLN ", Mid 
+ Finance ,, Harvey Nash Technology , Warszawa ," Excel , P&L , English (C1)",, Product Control Analyst ,False," 15 000  – 17 500 , PLN "," Mid, Senior "
+ Customer Service ,, Business Bridge Group , Wrocław ," MS Office , English (B1)",, Doradca ds. Klienta Biznesowego ,False," 5 000  – 9 000 , PLN ", Mid 
+ Sales ,, Business Bridge Group , Gdańsk , English (B1),, Inżynier sprzedaży (pompy ciepła) ,False," 8 317  – 9 051 , PLN ", Mid 
+ Sales ,, Business Bridge Group , Wrocław ," Driving license , English (B1)",, Inżynier sprzedaży (OZE) ,False," 8 317  – 9 051 , PLN ", Mid 
+ Automation ,, NOARCO , Wrocław ," PLC , TIA , English (B2)",, Programista PLC ,False," 20 000  – 30 000 , PLN "," Mid, Senior "
+ Marketing ,, WiserBrand , Remote ," Pay-per-click , Google Ads , E-commerce , Tier 1 , English (B1), Ukrainian (NATIVE)"," Bing Ads , Facebook Ads ", PPC Specialist ,False," 8 377  – 12 566 , PLN ", Senior 
+ Business Analysis ,, Link Group , Remote ," UML , BPMN , MS Office Suite , Agile , Waterfall , English (B2), Polish "," ITIL , Jira , Confluence , SharePoint , Enterprise Architect ", Remote Senior Business - System Analyst ,False," 16 800  – 25 200 , PLN "," Mid, Senior "
+ Sales ,, Ringostat , Remote ," CRM , Excel , Google Sheets , Polish (NATIVE), English (B2)", SaaS ," Sales Team Lead (Poland, Bulgaria) ",False," 16 000  – 22 000 , PLN ", Expert 
+ Frontend , Webflow , Netguru , Remote ," Webflow , CMS , Rwd , HTML , CSS , JavaScript , jQuery , Figma , English (B2)"," GSAP , WCAG , UX , UI , Open API ", Webflow Developer ,False," 11 645  – 17 020 , PLN ", Mid 
+ AI , Python , LiveChat , Remote ," Python , Machine Learning , PyTorch , TensorFlow , Keras , Kubernetes , Docker , DevOps , CI/CD , NLP , Polish (NATIVE), English (B2)"," Google Cloud Platform , AWS , Azure ", Remote MLOps Engineer ,False," 18 000  – 34 000 , PLN "," Mid, Senior "
+ Telecommunication ,, Link Group , Kraków ," Cisco , Verint , MS Teams , WebEx , Movius , Excel , VBS , PowerShell , Polish , English ",, IT Voice Engineer ,False," 18 000  – 24 000 , PLN ", Mid 
+ Backend , Python , Sigma IT Poland , Remote ," Python , Docker , SQL , Cloud , Kubernetes , API Gateway , Service mesh , Microservices , Polish (B2), English (C1)"," DAPR , Helm , ArgoCD , CI/CD ", Senior Python Backend Engineer (MedTech) ,False," 21 840  – 25 200 , PLN ", Senior 
+ Sys. Administrator ,, Harvey Nash Technology , Warszawa ," Linux , CentOS , Ubuntu , Ansible , English (C1)"," Puppet , Terraform , Salt , RHEL ", Linux System Engineer ,False," 28 000  – 36 000 , PLN "," Mid, Senior "
+ Sales ,, TR Group , Kraków , English ,,  Account Manager ,False," 8 000  – 12 000 , PLN ", Mid 
+ Sales ,, APV.EU Sp. z o.o. , Komorniki , English (B1), zmysł techniczny , Key Account Manager (branża reklamowa) ,False," 8 000  – 9 000 , PLN ", Mid 
+ Architecture ,, ERGO Technology & Services , Warszawa ," React , Angular , Java , Node.js , Python , PHP , Microservices , DDD , AWS , DevOps , English ",, Junior IT Solution Architect ,False," 19 000  – 23 000 , PLN ", Junior 
+ Sys. Administrator ,, Keepit , Kraków ," Ubuntu , Linux , Networking , Grep , Shell , English (B2)"," PostgreSQL , Pacemaker , Corosync , ITIL ", TechOps Engineer ,False," 12 000  – 16 000 , PLN ", Mid 
+ Sys. Administrator ,, Keepit , Kraków ," Linux , Networking , Switches , Routing , Dell , Ubuntu , English (B2)"," Git , BGP , LDAP , Kerberos , SAML , Ansible , gdb ", Senior Linux Systems Engineer ,False," 14 000  – 20 000 , PLN ", Senior 
+,, Keepit , Kraków ," C++ , Linux , Multithreading , STL , TCP , HTTP , REST API , XML , SQL , English (B2)",, C++ Developer ,False," 13 000  – 18 500 , PLN ", Mid 
+ Backend , .NET , Link Group , Remote ," .NET , C# , Windows , MVC , WebAPI , .NET Core , WinForms , Visual Studio , MySQL , Git , Integracja systemów , LINQ , SOLID , MS SQL , Aplikacje wielomodułowe  , CI/CD , Wzorce projektowe , English (B2)"," Aplikacje webowe , DevExpress , MongoDB , Microservices ", .NET Developer + Winforms + DevExpress ,False," 17 000  – 21 000 , PLN ", Senior 
+ Data ,, Elitmind , Remote ," google cloud platform , ETL , SQL , Azure Cloud , Data Governance , ETL/ELT , Data Architecture , Data Platforms , Stakeholder Management , Cloud Migration Strategies , Tech Leadership , English (B2)",, Cloud Data Architect (GCP/Azure) ,False," 24 000  – 32 000 , PLN "," Senior, Expert "
+ Sys. Administrator ,, RITS PROFESSIONAL SERVICES Sp. z o. o. , Kraków ," IBM , IBM MQ , Linux , Storage , SAN , English (B2)",, MQ Administrator ,False," 20 160  – 28 560 , PLN "," Mid, Senior "
+ DevOps , Python , Wipro Digital , Cracow ," Terraform , Python , GCP , Microservices , Kubernetes , Docker , Ansible , English "," CI/CD , Bash , Go , CI/CD Pipelines , Spring , Terragrunt , Polish "," DevOps Engineer (Terraform, GCP, Python) ",False," 23 100  – 29 400 , PLN ", Mid 
+ Data , Python , ASTEK Polska , Remote ," Python , AWS , SQL , Polish , English (B2)",, Data Engineer  ,False," 21 000  – 27 300 , PLN ", Senior 
+ AI , GCP , GetInData | Part of Xebia , Remote ," GCP , Java , Python , Kubernetes , Machine learning , MLflow , MLOps , Prototyping , CI , Polish , English "," Airflow , Docker , Terraform , Jenkins ", Mid/Senior MLOps Engineer ,False," 16 800  – 33 600 , PLN "," Mid, Senior "
+ Finance ,, Harvey Nash Technology , Warszawa ," Swift , MS Excel , Outlook , PowerPoint , risk management , English (B2)",, Treasury Analyst ,False," 9 000  – 10 000 , PLN ", Mid 
+ Finance ,, Harvey Nash Technology , Warszawa , English (B2),, Product Control Analyst ,False," 13 400  – 20 000 , PLN ", Mid 
+ Marketing ,, Appfire , Remote ," Degree , Use cases , Segmentation , Atlassian , Trello , Jira , Bitbucket , Confluence , English (B2)",, Product Marketing Manager ,False," 13 500  – 14 500 , PLN ", Senior 
+ Telecommunication ,, Harvey Nash Technology , Warszawa ," RAN , GSM , UMTS , LTE , 5G , RRC , PDCP , RLC , MAC , PHY , Wireshark , 3GPP , English (C1)"," C , C++ , Java , Jira ", Mobile Engineer ,False," 18 000  – 20 000 , PLN "," Mid, Senior "
+ Sys. Administrator ,, Harvey Nash Technology , Remote , English (B2)," Polish (B2), German (B2)", ServiceNow Specialist ,False," 12 000  – 17 000 , PLN ", Mid 
+ AI , Python , Kinetix Trading Solutions , Remote ," Python , Machine learning , scikit-learn , NLP , Natural language processing , Deep learning , Machine Learning , English "," Git , Cloud , TensorFlow , Docker , PyTorch , Elasticsearch , MongoDB , Keras , NoSQL ", Senior Machine Learning NLP LLM Engineer ,False," 25 000  – 32 000 , PLN "," Senior, Expert "
+ Testing , Java , 360 Code Lab Sp. z o.o. , Remote ," API , Testing , Test case , Java , Polish (NATIVE), English (B2)"," JavaScript , TypeScript , SQL , REST ", Remote Junior Manual Tester ,False," 6 000  – 8 000 , PLN ", Junior 
+ Backend , Node.js , kiwiHR , Remote ," Node.js , Express , REST , PostgreSQL , Polish (C1), English (B2)"," AWS   , Docker , TypeScript ", Senior Backend Developer (Node.js) ,False," 20 000  – 25 000 , PLN ", Senior 
+ Customer Service ,, iSpot Poland Sp. z o.o. , Warsaw , English (B1),, Doradca Klienta Serwisowego ,False," 3 800  – 4 800 , PLN ", Mid 
+ Customer Service ,, iSpot Poland Sp. z o.o. , Katowice , English (B1),, Doradca Klienta Serwisowego ,False," 3 800  – 4 800 , PLN ", Mid 
+ Testing ,, 360 Code Lab Sp. z o.o. , Remote ," API , Postman , Testing , Test case , Test strategy , Jira , English (B2), Polish (NATIVE)"," JavaScript , TypeScript , SQL , REST , Selenium , JSON , Cypress , Test automation , GitHub , Git , Docker ", Remote Mid/Senior QA Engineer ,False," 12 000  – 16 000 , PLN ", Mid 
+ Telecommunication ,, Harvey Nash Technology , Warszawa ," C , C++ , Anritsu , Keysight , R&S , 3GPP , RF , Radio Frequency , English (C1)", 5G , RF Engineer ,False," 18 000  – 20 000 , PLN "," Mid, Senior "
+ Customer Service ,, Infermedica Sp z.o.o  , Remote ," B2B , IT , AI , Healthcare , English (C1), Polish "," SaaS , HubSpot , Google suite , Totango , CRM , German ", Customer Success Manager (Junior / Mid) ,False," 8 000  – 10 000 , PLN ", Mid 
+ Electrical Engineering ,, ENAMOR SP. Z O.O. , Gdynia ," MS Office , Prawo Jazdy Kat. B , English (B1)",, Inżynier Elektryk/Elektroautomatyk ,False," 5 300  – 8 300 , PLN ", Mid 
+ Security ,, Bayer Sp. z o.o. , Warsaw ," risk management , process management , Information Management , Security , ISO 27001 , English ",, Information Classification Process Mngr. ,False," 18 000  – 27 000 , PLN ", Mid 
+ Automation ,, Business Bridge Group , Wrocław ," Wonderware , English (B2)"," SEP , AutoCAD , C++ , C# , SQL , SEP 1kv , German ", Programista PLC/Automatyk ,False," 7 000  – 14 000 , PLN ", Mid 
+ Electronics ,, ENAMOR SP. Z O.O. , Gdynia ," MS Office , Prawo Jazdy Kat. B , English (B1)", GOC , Inżynier Elektronik ,False," 5 300  – 8 300 , PLN ", Mid 
+ Sales ,, Business Bridge Group , Wrocław , English (B1), German , Inżynier sprzedaży ,False," 6 850 , PLN ", Mid 
+ Sales ,, Creative Ideas , Gdańsk , English (B1),, Doradca w Dziale Hydrauliki Siłowej ,False," 7 000 , PLN ", Mid 
+ Finance ,, Harvey Nash Technology , Warszawa ," Accounting , Excel , finance , English (C1)"," SQL , Alteryx , Tableau ", Finance Specialist ,False," 10 000  – 13 000 , PLN ", Mid 
+ Business Intelligence ,, Falck IT Poland Sp. z o.o. , Warszawa ," ITIL , English ",, Service Development Manager ,False," 16 000  – 18 000 , PLN ", Mid 
+ IT Support ,, Wipro Digital , Krakow ," Agile , Confluence , Jira , SharePoint , English ", Polish , Portfolio Support Analyst  (PMO Admin) ,False," 21 000  – 25 200 , PLN ", Mid 
+ Fullstack , .NET , KMD Poland , Remote ," .NET , Angular , Docker , Git , CI/CD , English (B2)"," AKS , Azure Pipelines , Azure DevOps , Angular Material , PowerBI ", Full-Stack Developer (Angular/ .NET)  ,False," 16 500  – 26 500 , PLN ", Senior 
+ Finance ,, Ekkom Sp. z o.o. , Wrocław , Polish , English ,  Samodzielna/y Księgowa/y ,False," 7 000  – 9 500 , PLN ", Mid 
+ Business Analysis ,, Falck IT Poland Sp. z o.o. , Warszawa ," Business Analyst , English ",, Business Analyst (Financial Systems) ,False," 12 000  – 18 000 , PLN ", Mid 
+ Sys. Administrator ,, Falck IT Poland Sp. z o.o. , Warszawa ," managing IT contracts , Excel , English ", communication skills , IT Contract Manager  ,False," 17 000  – 19 000 , PLN ", Mid 
+ Architecture ,, Falck IT Poland Sp. z o.o. , Warszawa ," SAFe , Public cloud , Enterprise Architect , Service design , Prototyping , English ", AWS Cloud , Cloud Architect ,False," 18 000  – 23 000 , PLN ", Mid 
+ Data , SQL , Falck IT Poland Sp. z o.o. , Warszawa ," Microsoft SQL Server , IaaS , PaaS , SaaS , Azure Data , Data Lake , CAN , Python , SQL , English ",, Data Engineer ,False," 16 000  – 18 000 , PLN ", Mid 
+ Architecture , Azure , Falck IT Poland Sp. z o.o. , Warszawa ," Azure Cloud , PowerShell , Python , Terraform , JSON , DevOps , Azure , English ", Git , Cloud Engineer ,False," 15 000  – 23 000 , PLN ", Senior 
+ Business Intelligence ,, Objectivity - part of Accenture , Remote ," Power BI , SQL , Data modeling , DAX , English (B2)", Tableau , Senior Power BI Developer/Data Analyst ,False," 20 500  – 24 000 , PLN "," Senior, Expert "
+ Marketing ,, Creative Ideas , Wrocław ," Google Analytics , Digital marketing , English (B2)", CMS , Product Manager - FMCG ,False," 7 000  – 11 000 , PLN ", Mid 
+ Sales ,, Creative Ideas , Warszawa , English (B2),, PM Sales Specialist B2B  ,False," 5 500 , PLN ", Junior 
+ Marketing ,, Railsware , Remote ," Google Analytics , English (C1)", Figma , Senior Marketing Manager ,False," 10 471  – 14 660 , PLN ", Senior 
+ Frontend , Angular , Appfire , Remote ," Angular , JavaScript , TypeScript , RxJS , Sass , HTML , OOP , Design Patterns , English (B2)", Polish , Frontend Angular Engineer ,False," 10 000  – 14 000 , PLN ", Mid 
+ Project Manager ,, Wipro Digital , Krakow ," Agile , Confluence , Jira , English ", Polish , Technology Project Manager  ,False," 25 200  – 29 400 , PLN ", Senior 
+ Fullstack , React , DCX , Wrocław ," React , CI/CD Pipelines , Terraform , CI/CD , JavaScript , TypeScript , Polish , English "," REST API , Elasticsearch , Docker , Kubernetes , TDD , BDD ", Full Stack (Front-end emphasis) ,False," 22 000  – 27 000 , PLN ", Senior 
+ Business Analysis ,, Avenga , Warszawa/ Centrum ," PL/SQL , Oracle , BPM , PostgreSQL , MongoDB , English (B2)"," Postman , SoapUI , Jira , GitLab ", Analityk Systemowy ,False," 15 120  – 20 160 , PLN ", Mid 
+ Testing , Python , int2code GmbH , Remote ," Python , Communication skills , git , ROBOT Framework , Jenkins , C , Git , embedded software testing , English , English (C1)"," ISTQB-Certification , Polarion , LDRA , Ceedling , German ", Remote Avionics Test Automation Engineer ,False," 23 520  – 33 000 , PLN ", Mid 
+ Marketing ,, Talex S.A. , Poznań ," MS Office , Canva , Photoshop , English ", WordPress , Junior Marketing Specialist ,False," 4 000  – 5 000 , PLN ", Junior 
