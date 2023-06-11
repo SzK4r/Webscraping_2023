@@ -1,0 +1,101 @@
+position,salary_range,company,category1,category2,location,remote,must have,nice to have,seniority
+Major Incident Manager (with French),23 100  – 27 300  PLN,Wipro Digital,Product Management,None,Cracow,0.0,"Backlog management, Defining business requirements, French, English, French",Polish,Mid
+Delivery Lead (Scrum Master),25 200  – 30 450  PLN,Wipro Digital,Product Management,None,Gdansk,False,"Jira, Confluence, Kanban, scrum, Agile, SDLC, English","CI/CD, Polish",Senior
+Product Owner (Digital Transformation),25 200  – 29 400  PLN,Wipro Digital,Product Management,None,Gdansk,False,"Jira, Confluence, Kanban, English",Polish,Mid
+"Full Stack Engineer (.NET, React, Azure)",25 200  – 37 800  PLN,Wipro Digital,Fullstack,.NET,Remote,False,".NET, React, Microservices, Automation, Git, JUnit, English","Docker, Kubernetes, Jenkins, Azure, GCP, AWS, Polish",Senior
+Agile Project Manager,12 000  – 18 000  PLN,Tooploox,Project Manager,None,Remote,False,"Jira, Asana, English, Polish","Degree, AI",Senior
+REMOTE Mid&Senior SAP Basis Admin,20 160  – 28 560  PLN,Link Group,ERP,None,Remote,False,"SAP, Linux, Windows, Oracle, English","HANA, ABAP, Java",Senior
+Junior Analytics Developer,5 000  – 8 500  PLN,Axis Group,Business Analysis,None,Remote,False,"Good knowledge of Microsoft Excel, Bachelor&#39;s degree in Computer Science or economics, Analytical thinking, Communication skills, Excel, Degree, English (B2)","BI tools, Tableau, Power BI, Qlik, SQL / NoSQL, Knowledge of date warehouse, Knowledge of ETL process, SQL, NoSQL, ETL",Junior
+Middle React Developer,14 660  – 21 111  PLN,N-iX,Frontend,React,Remote,False,"React, JavaScript, Redux, HTML, CSS, English (B2)",TypeScript,Mid
+Senior Database Reliability Engineer/DBA,24 434  – 31 415  PLN,Drata,DevOps,SQL,Remote,False,"MySQL, SQL, AWS, AWS RDS, Databases, English",DynamoDB,Senior
+Transformation Leader (with German),35 700  – 40 950  PLN,Wipro Digital,Project Manager,None,Warszawa,False,"Project management, large scale projects, Team management, Business Process Model and Notation, Process modelling, Jira, Agile, English, German",Polish,"Senior, Expert"
+Scala (Spark) Backend Developer,21 000  – 26 250  PLN,Wipro Digital,Backend,Spark,Krakow,False,"Spark, Microservices, Jenkins, GitHub, Jira, Confluence, Scrum, English","GCP, Apache Airflow, JUnit, TDD, BDD, Azure, AWS, Polish",Mid
+Export Director FMCG,12 000  – 18 000  PLN,Smart-HR,Sales,None,Żory,False,English (B2),None,Senior
+Agile Business Analyst (SEPA),25 200  – 29 400  PLN,Wipro Digital,Business Analysis,None,Krakow,False,"Agile, Confluence, Jira, English","SEPA, EPC, SQL, Polish","Mid, Senior"
+QA Manual - Mid,13 440  – 18 480  PLN,Link Group,Testing,None,Gdynia,False,"Swagger, Postman, Azure DevOps, Git, Visual Studio, English (B2)",None,Mid
+Quality Specialist,14 000  – 20 000  PLN,Hitachi Energy,Telecommunication,None,Kraków,False,"STEM, TCP/IP, TCP, Networking, English","TCP/IP protocols, Lean, Six Sigma","Mid, Senior"
+Sales Specialist,10 000  PLN,SCALEUP,Sales,None,Szczecin,False,"MS Office, Portuguese (NATIVE), English",Polish,Junior
+Senior UI Designer,14 000  – 19 000  PLN,Tooploox,Design,None,Remote,False,"UI Design, UX Design, User research, Client workshops, Communication skills, Team player, Polish, English",None,Senior
+Remote Trainee Angular Developer,Unpaid internship,CheapTrip,Frontend,Angular,Remote,False,"Angular, English","Python, Android, iOS",Trainee
+Remote Trainee Python Developer,Unpaid internship,CheapTrip,Backend,None,Remote,False,"Python, English","Angular, Android, iOS",Trainee
+Business SQL Developer,25 000  – 32 000  PLN,Harvey Nash Technology,Data,SQL,Warszawa,False,"SQL, SQL Server, English (C1)","Python, Alteryx, Data warehouse, Data Lake, Databricks","Mid, Senior"
+Cloud Data Architect (GCP/Azure),24 000  – 32 000  PLN,Elitmind,Data,None,Remote,False,"google cloud platform, ETL, SQL, Azure Cloud, Data Governance, ETL/ELT, Data Architecture, Data Platforms, Stakeholder Management, Cloud Migration Strategies, Tech Leadership, English (B2)",None,"Senior, Expert"
+"DevOps Engineer (Terraform, GCP, Python)",23 100  – 29 400  PLN,Wipro Digital,DevOps,Python,Cracow,False,"Terraform, Python, GCP, Microservices, Kubernetes, Docker, Ansible, English","CI/CD, Bash, Go, CI/CD Pipelines, Spring, Terragrunt, Polish",Mid
+Data Engineer,21 000  – 27 300  PLN,ASTEK Polska,Data,Python,Remote,False,"Python, AWS, SQL, Polish, English (B2)",None,Senior
+Mid/Senior MLOps Engineer,16 800  – 33 600  PLN,GetInData | Part of Xebia,AI,GCP,Remote,False,"GCP, Java, Python, Kubernetes, Machine learning, MLflow, MLOps, Prototyping, CI, Polish, English","Airflow, Docker, Terraform, Jenkins","Mid, Senior"
+Product Marketing Manager,13 500  – 14 500  PLN,Appfire,Marketing,None,Remote,False,"Degree, Use cases, Segmentation, Atlassian, Trello, Jira, Bitbucket, Confluence, English (B2)",None,Senior
+Product Control Analyst,13 400  – 20 000  PLN,Harvey Nash Technology,Finance,None,Warszawa,False,English (B2),None,Mid
+Treasury Analyst,9 000  – 10 000  PLN,Harvey Nash Technology,Finance,None,Warszawa,False,"Swift, MS Excel, Outlook, PowerPoint, risk management, English (B2)",None,Mid
+Mobile Engineer,18 000  – 20 000  PLN,Harvey Nash Technology,Telecommunication,None,Warszawa,False,"RAN, GSM, UMTS, LTE, 5G, RRC, PDCP, RLC, MAC, PHY, Wireshark, 3GPP, English (C1)","C, C++, Java, Jira","Mid, Senior"
+Senior Machine Learning NLP LLM Engineer,25 000  – 32 000  PLN,Kinetix Trading Solutions,AI,Python,Remote,False,"Python, Machine learning, scikit-learn, NLP, Natural language processing, Deep learning, Machine Learning, English","Git, Cloud, TensorFlow, Docker, PyTorch, Elasticsearch, MongoDB, Keras, NoSQL","Senior, Expert"
+ServiceNow Specialist,12 000  – 17 000  PLN,Harvey Nash Technology,Sys. Administrator,None,Remote,False,English (B2),"Polish (B2), German (B2)",Mid
+RF Engineer,18 000  – 20 000  PLN,Harvey Nash Technology,Telecommunication,None,Warszawa,False,"C, C++, Anritsu, Keysight, R&S, 3GPP, RF, Radio Frequency, English (C1)",5G,"Mid, Senior"
+Remote Junior Manual Tester,6 000  – 8 000  PLN,360 Code Lab Sp. z o.o.,Testing,Java,Remote,False,"API, Testing, Test case, Java, Polish (NATIVE), English (B2)","JavaScript, TypeScript, SQL, REST",Junior
+Senior Backend Developer (Node.js),20 000  – 25 000  PLN,kiwiHR,Backend,Node.js,Remote,False,"Node.js, Express, REST, PostgreSQL, Polish (C1), English (B2)","AWS, Docker, TypeScript",Senior
+Doradca Klienta Serwisowego,3 800  – 4 800  PLN,iSpot Poland Sp. z o.o.,Customer Service,None,Katowice,False,English (B1),None,Mid
+Doradca Klienta Serwisowego,3 800  – 4 800  PLN,iSpot Poland Sp. z o.o.,Customer Service,None,Warsaw,False,English (B1),None,Mid
+Remote Mid/Senior QA Engineer,12 000  – 16 000  PLN,360 Code Lab Sp. z o.o.,Testing,None,Remote,False,"API, Postman, Testing, Test case, Test strategy, Jira, English (B2), Polish (NATIVE)","JavaScript, TypeScript, SQL, REST, Selenium, JSON, Cypress, Test automation, GitHub, Git, Docker",Mid
+Customer Success Manager (Junior / Mid),8 000  – 10 000  PLN,Infermedica Sp z.o.o,Customer Service,None,Remote,False,"B2B, IT, AI, Healthcare, English (C1), Polish","SaaS, HubSpot, Google suite, Totango, CRM, German",Mid
+Information Classification Process Mngr.,18 000  – 27 000  PLN,Bayer Sp. z o.o.,Security,None,Warsaw,False,"risk management, process management, Information Management, Security, ISO 27001, English",None,Mid
+Inżynier Elektryk/Elektroautomatyk,5 300  – 8 300  PLN,ENAMOR SP. Z O.O.,Electrical Engineering,None,Gdynia,False,"MS Office, Prawo Jazdy Kat. B, English (B1)",None,Mid
+Inżynier Elektronik,5 300  – 8 300  PLN,ENAMOR SP. Z O.O.,Electronics,None,Gdynia,False,"MS Office, Prawo Jazdy Kat. B, English (B1)",GOC,Mid
+Senior Data Architect,18 000  – 27 000  PLN,Bayer Sp. z o.o.,Data,Azure,Warsaw,False,"Degree, Data modeling, Big data, Microservices, Data governance, Data management, Snowflake, Kafka, Collibra, English (C1)",None,"Mid, Senior"
+Inżynier SCADA,9 000  – 12 000  PLN,Orienta Polska,Electronics,C++,Łódź,False,"SCADA, iFix, WinCC, C, C++, C#, MATLAB, MySQL, SQL, English (B2)",None,Mid
+Specjalista/ka ds. Eksportu,9 000  – 11 000  PLN,Orienta Polska,Sales,None,Warszawa,False,"MS Office, English (B2)",None,Mid
+Przedstawiciel Handlowy,6 000  PLN,Orienta Polska,Sales,None,Warszawa,False,English (C1),None,Mid
+Remote Lead Backend Python Developer,20 943  PLN,IT Recruiting Agency,Backend,Python,Remote,False,"Python, English (B2)",None,Expert
+Data Architect Marketing&eComm Analytics,18 000  – 26 500  PLN,Bayer Sp. z o.o.,Data,Python,Warsaw,False,"Data engineering, Azure Data Lake, Databricks, Snowflake, SAP, HANA, SQL, Python, BI, Tableau, Data management, Azure, English",None,"Mid, Senior"
+Remote Senior Backend Python Developer,18 849  – 20 943  PLN,IT Recruiting Agency,Backend,Python,Remote,False,"Python, English (B2)",None,Senior
+Remote Project Manager 1/2 FTE,25 200  PLN,Link Group,Project Manager,None,Remote,False,"Confluence, Jira, Polish, English",None,Senior
+Enterprise Product Manager,18 000  – 26 500  PLN,Bayer Sp. z o.o.,Product Management,None,Warsaw,False,"Business Analyst, Product Management, Project Management, English (C1)","GXP, EDI, German (B2)",Mid
+Remote .NET Fullstack Developer,15 120  – 25 200  PLN,Prognetics,Fullstack,.NET,Remote,False,".NET, .NET Core, EF Core, SQL Server, Design Patterns, REST API, GitHub, English (B2), Polish (C1)","Angular, Azure, SOA, Microservices, React, NoSQL, Kubernetes, RabbitMQ",Mid
+Marketing Head/Leader (IT),14 000  – 20 000  PLN,Elitmind,Marketing,None,Warszawa,False,"Networks, Digital marketing, Social media, Marketing automation, Email marketing, Marketing strategy, SEO, IT industry awarness, English, leadership, English (C1)",Data/BI industry awarness,"Senior, Expert"
+Tech Lead Angular & TypeScript - Remote,25 000  – 30 000  PLN,Direct Communication Sp. z o.o.,Frontend,Angular,Remote,False,"Angular, TypeScript, English (B2)",None,Senior
+Junior Operations Specialist,4 650  – 5 350  PLN,No Fluff Jobs,HR,None,Gdynia,False,"samodzielność, proaktywność, priorytetyzacja zadań, komunikacja, English (B2), Polish",None,Junior
+Influencer Manager,7 000  – 8 000  PLN,Spotlight Agency,Marketing,None,Warszawa,False,Doświadczenie w social media marketingu,English,Mid
+New Business Manager,7 000  – 8 000  PLN,Spotlight Agency,Sales,None,Warszawa,False,English (B2),None,Mid
+Inżynier Elektryk,7 000  – 9 000  PLN,Creative Ideas,Electrical Engineering,None,Leszno,False,"CAD, AutoCAD, English (B1)","SAP, Comos",Mid
+Product Control Analyst,15 000  – 17 500  PLN,Harvey Nash Technology,Finance,None,Warszawa,False,"Excel, P&L, English (C1)",None,"Mid, Senior"
+Doradca ds. Klienta Biznesowego,5 000  – 9 000  PLN,Business Bridge Group,Customer Service,None,Wrocław,False,"MS Office, English (B1)",None,Mid
+Inżynier sprzedaży (OZE),8 317  – 9 051  PLN,Business Bridge Group,Sales,None,Wrocław,False,"Driving license, English (B1)",None,Mid
+Inżynier sprzedaży (pompy ciepła),8 317  – 9 051  PLN,Business Bridge Group,Sales,None,Gdańsk,False,English (B1),None,Mid
+Programista PLC/Automatyk,7 000  – 14 000  PLN,Business Bridge Group,Automation,None,Wrocław,False,"Wonderware, English (B2)","SEP, AutoCAD, C++, C#, SQL, SEP 1kv, German",Mid
+Inżynier sprzedaży,6 850  PLN,Business Bridge Group,Sales,None,Wrocław,False,English (B1),German,Mid
+Finance Specialist,10 000  – 13 000  PLN,Harvey Nash Technology,Finance,None,Warszawa,False,"Accounting, Excel, finance, English (C1)","SQL, Alteryx, Tableau",Mid
+Service Development Manager,16 000  – 18 000  PLN,Falck IT Poland Sp. z o.o.,Business Intelligence,None,Warszawa,False,"ITIL, English",None,Mid
+Doradca w Dziale Hydrauliki Siłowej,7 000  PLN,Creative Ideas,Sales,None,Gdańsk,False,English (B1),None,Mid
+Full-Stack Developer (Angular/ .NET),16 500  – 26 500  PLN,KMD Poland,Fullstack,.NET,Remote,False,".NET, Angular, Docker, Git, CI/CD, English (B2)","AKS, Azure Pipelines, Azure DevOps, Angular Material, PowerBI",Senior
+Samodzielna/y Księgowa/y,7 000  – 9 500  PLN,Ekkom Sp. z o.o.,Finance,None,Wrocław,False,Polish,English,Mid
+Portfolio Support Analyst  (PMO Admin),21 000  – 25 200  PLN,Wipro Digital,IT Support,None,Krakow,False,"Agile, Confluence, Jira, SharePoint, English",Polish,Mid
+Business Analyst (Financial Systems),12 000  – 18 000  PLN,Falck IT Poland Sp. z o.o.,Business Analysis,None,Warszawa,False,"Business Analyst, English",None,Mid
+Cloud Architect,18 000  – 23 000  PLN,Falck IT Poland Sp. z o.o.,Architecture,None,Warszawa,False,"SAFe, Public cloud, Enterprise Architect, Service design, Prototyping, English",AWS Cloud,Mid
+Cloud Engineer,15 000  – 23 000  PLN,Falck IT Poland Sp. z o.o.,Architecture,Azure,Warszawa,False,"Azure Cloud, PowerShell, Python, Terraform, JSON, DevOps, Azure, English",Git,Senior
+Data Engineer,16 000  – 18 000  PLN,Falck IT Poland Sp. z o.o.,Data,SQL,Warszawa,False,"Microsoft SQL Server, IaaS, PaaS, SaaS, Azure Data, Data Lake, CAN, Python, SQL, English",None,Mid
+IT Contract Manager,17 000  – 19 000  PLN,Falck IT Poland Sp. z o.o.,Sys. Administrator,None,Warszawa,False,"managing IT contracts, Excel, English",communication skills,Mid
+Senior Power BI Developer/Data Analyst,20 500  – 24 000  PLN,Objectivity - part of Accenture,Business Intelligence,None,Remote,False,"Power BI, SQL, Data modeling, DAX, English (B2)",Tableau,"Senior, Expert"
+Senior Marketing Manager,10 471  – 14 660  PLN,Railsware,Marketing,None,Remote,False,"Google Analytics, English (C1)",Figma,Senior
+Product Manager - FMCG,7 000  – 11 000  PLN,Creative Ideas,Marketing,None,Wrocław,False,"Google Analytics, Digital marketing, English (B2)",CMS,Mid
+PM Sales Specialist B2B,5 500  PLN,Creative Ideas,Sales,None,Warszawa,False,English (B2),None,Junior
+Frontend Angular Engineer,10 000  – 14 000  PLN,Appfire,Frontend,Angular,Remote,False,"Angular, JavaScript, TypeScript, RxJS, Sass, HTML, OOP, Design Patterns, English (B2)",Polish,Mid
+Technology Project Manager,25 200  – 29 400  PLN,Wipro Digital,Project Manager,None,Krakow,False,"Agile, Confluence, Jira, English",Polish,Senior
+Full Stack (Front-end emphasis),22 000  – 27 000  PLN,DCX,Fullstack,React,Wrocław,False,"React, CI/CD Pipelines, Terraform, CI/CD, JavaScript, TypeScript, Polish, English","REST API, Elasticsearch, Docker, Kubernetes, TDD, BDD",Senior
+Programista PLC,20 000  – 30 000  PLN,NOARCO,Automation,None,Wrocław,False,"PLC, TIA, English (B2)",None,"Mid, Senior"
+Analityk Systemowy,15 120  – 20 160  PLN,Avenga,Business Analysis,None,Warszawa/ Centrum,False,"PL/SQL, Oracle, BPM, PostgreSQL, MongoDB, English (B2)","Postman, SoapUI, Jira, GitLab",Mid
+PPC Specialist,8 377  – 12 566  PLN,WiserBrand,Marketing,None,Remote,False,"Pay-per-click, Google Ads, E-commerce, Tier 1, English (B1), Ukrainian (NATIVE)","Bing Ads, Facebook Ads",Senior
+Remote MLOps Engineer,18 000  – 34 000  PLN,LiveChat,AI,Python,Remote,False,"Python, Machine Learning, PyTorch, TensorFlow, Keras, Kubernetes, Docker, DevOps, CI/CD, NLP, Polish (NATIVE), English (B2)","Google Cloud Platform, AWS, Azure","Mid, Senior"
+Remote Senior Business - System Analyst,16 800  – 25 200  PLN,Link Group,Business Analysis,None,Remote,False,"UML, BPMN, MS Office Suite, Agile, Waterfall, English (B2), Polish","ITIL, Jira, Confluence, SharePoint, Enterprise Architect","Mid, Senior"
+IT Voice Engineer,18 000  – 24 000  PLN,Link Group,Telecommunication,None,Kraków,False,"Cisco, Verint, MS Teams, WebEx, Movius, Excel, VBS, PowerShell, Polish, English",None,Mid
+Senior Python Backend Engineer (MedTech),21 840  – 25 200  PLN,Sigma IT Poland,Backend,Python,Remote,False,"Python, Docker, SQL, Cloud, Kubernetes, API Gateway, Service mesh, Microservices, Polish (B2), English (C1)","DAPR, Helm, ArgoCD, CI/CD",Senior
+"Sales Team Lead (Poland, Bulgaria)",16 000  – 22 000  PLN,Ringostat,Sales,None,Remote,False,"CRM, Excel, Google Sheets, Polish (NATIVE), English (B2)",SaaS,Expert
+Webflow Developer,11 645  – 17 020  PLN,Netguru,Frontend,Webflow,Remote,False,"Webflow, CMS, Rwd, HTML, CSS, JavaScript, jQuery, Figma, English (B2)","GSAP, WCAG, UX, UI, Open API",Mid
+Linux System Engineer,28 000  – 36 000  PLN,Harvey Nash Technology,Sys. Administrator,None,Warszawa,False,"Linux, CentOS, Ubuntu, Ansible, English (C1)","Puppet, Terraform, Salt, RHEL","Mid, Senior"
+Remote Avionics Test Automation Engineer,23 520  – 33 000  PLN,int2code GmbH,Testing,Python,Remote,False,"Python, Communication skills, git, ROBOT Framework, Jenkins, C, Git, embedded software testing, English, English (C1)","ISTQB-Certification, Polarion, LDRA, Ceedling, German",Mid
+Key Account Manager (branża reklamowa),8 000  – 9 000  PLN,APV.EU Sp. z o.o.,Sales,None,Komorniki,False,English (B1),zmysł techniczny,Mid
+Account Manager,8 000  – 12 000  PLN,TR Group,Sales,None,Kraków,False,English,None,Mid
+Junior IT Solution Architect,19 000  – 23 000  PLN,ERGO Technology & Services,Architecture,None,Warszawa,False,"React, Angular, Java, Node.js, Python, PHP, Microservices, DDD, AWS, DevOps, English",None,Junior
+Senior Linux Systems Engineer,14 000  – 20 000  PLN,Keepit,Sys. Administrator,None,Kraków,False,"Linux, Networking, Switches, Routing, Dell, Ubuntu, English (B2)","Git, BGP, LDAP, Kerberos, SAML, Ansible, gdb",Senior
+TechOps Engineer,12 000  – 16 000  PLN,Keepit,Sys. Administrator,None,Kraków,False,"Ubuntu, Linux, Networking, Grep, Shell, English (B2)","PostgreSQL, Pacemaker, Corosync, ITIL",Mid
+.NET Developer + Winforms + DevExpress,17 000  – 21 000  PLN,Link Group,Backend,.NET,Remote,False,".NET, C#, Windows, MVC, WebAPI, .NET Core, WinForms, Visual Studio, MySQL, Git, Integracja systemów, LINQ, SOLID, MS SQL, Aplikacje wielomodułowe, CI/CD, Wzorce projektowe, English (B2)","Aplikacje webowe, DevExpress, MongoDB, Microservices",Senior
+C++ Developer,13 000  – 18 500  PLN,Keepit,Backend,C++,Kraków,False,"C++, Linux, Multithreading, STL, TCP, HTTP, REST API, XML, SQL, English (B2)",None,Mid
+MQ Administrator,20 160  – 28 560  PLN,RITS PROFESSIONAL SERVICES Sp. z o. o.,Sys. Administrator,None,Kraków,False,"IBM, IBM MQ, Linux, Storage, SAN, English (B2)",None,"Mid, Senior"
+Junior Marketing Specialist,4 000  – 5 000  PLN,Talex S.A.,Marketing,None,Poznań,False,"MS Office, Canva, Photoshop, English",WordPress,Junior
