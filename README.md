@@ -31,6 +31,15 @@ To run this application, you need to have the following installed:
 Replace `<spider_name>` with the name of the spider you want to run (`job_ads_attributes` or `links`).
 5. The scraped data will be stored in the specified output format (e.g., CSV files).
 
+
+## More information 
+Below you can find the links to the report and presentation recordings.
+
+Link to the presentation recordings: 
+https://drive.google.com/drive/folders/1dqX-XoL1A3bfNT9vYoo8Jk28bjpcGZGR?usp=drive_link
+Link to the report: 
+https://docs.google.com/document/d/1cG36OtaB34dqOuqHwJ5r50YlUAKUh0r4-FlNeOCSKwo/edit?usp=sharing
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
