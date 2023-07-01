@@ -38,7 +38,7 @@ Replace `<spider_name>` with the name of the spider you want to run (`job_ads_at
 Below you can find the links to the report and presentation recordings.
 
 Link to the presentation recordings: 
-https://drive.google.com/drive/folders/1dqX-XoL1A3bfNT9vYoo8Jk28bjpcGZGR?usp=drive_link
+https://drive.google.com/file/d/1bsh3j5aRlUJs2EgwybcZ1W4l-bpZNgQz/view
 Link to the report: 
 https://docs.google.com/document/d/1cG36OtaB34dqOuqHwJ5r50YlUAKUh0r4-FlNeOCSKwo/edit?usp=sharing
 
